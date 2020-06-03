@@ -8,4 +8,4 @@ Descompacte o arquivo dentro do root do projeto.
 Estudo traduzindo o código em R para Python e análise em Pandas para dimensionar a quantidade de unidades de saúde do SUS por estado no Brasil. Os dados do projeto são de outubro de 2018
 
 
-Mapa criado por Datawrapper.: https://datawrapper.dwcdn.net/nbRiY/1/
+Mapa criado em Datawrapper.: https://datawrapper.dwcdn.net/nbRiY/1/
